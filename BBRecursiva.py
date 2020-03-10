@@ -1,5 +1,4 @@
 
-
 def BB_recursiva(Lista, busqueda, izquierda, derecha):
     if izquierda > derecha:
         return -1
