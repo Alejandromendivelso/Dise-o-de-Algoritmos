@@ -14,7 +14,7 @@ Este juego se realizo en un algoritmo donde su resultado es la cantidad de movim
 
 ## Metodos de Ordenamientos 
 
-Para saber mas sobre los tres diferentes metodos de ordenamiento que se encuentra entra a meto[https://docs.google.com/document/d/1C0SSsjw4EG98UcNvAg\_VX9INFOgLeptRCRRDbcmVBpc/edit](https://docs.google.com/document/d/1C0SSsjw4EG98UcNvAg_VX9INFOgLeptRCRRDbcmVBpc/edit)s
+Para saber mas sobre los tres diferentes metodos de ordenamiento que se encuentra entra a [metodos](https://docs.google.com/document/d/1C0SSsjw4EG98UcNvAg_VX9INFOgLeptRCRRDbcmVBpc/edit), donde te direccionara un archivo donde se te mostrara ejecuciones, esplicación de su rendimento y su compracion entre ellos mismos.
 
 
 
