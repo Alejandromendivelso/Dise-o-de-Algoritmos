@@ -10,7 +10,7 @@ Este juego se realizo en un algoritmo donde su resultado es la cantidad de movim
 
 ![](.gitbook/assets/imagen.png)
 
-En la ejecución de este ejercicio podremos aumentar o disminur la cantidad de discos a utilizar solo combiando el nuemro que aparece en la imagen anterior.
+En la ejecución de este ejercicio podremos aumentar o disminur la cantidad de discos a utilizar solo combiando el nuemro que aparece en la anteior linea de codigo.
 
 ## Busqueda binaria 
 
