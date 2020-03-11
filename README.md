@@ -1,5 +1,5 @@
 ---
-description: En
+description: Durante lo largo de
 ---
 
 # Readme.md
