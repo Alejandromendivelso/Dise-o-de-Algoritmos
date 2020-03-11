@@ -8,7 +8,13 @@ Durante lo largo de la primera sección del curso de diseño de algoritmos reali
 
 Este juego se realizo en un algoritmo donde su resultado es la cantidad de movimientos que se deben realizar para que todos discos queden en la tercera estaca 
 
+## Busqueda binaria 
 
+## Busqueda binaira recursiva 
+
+## Metodos de Ordenamientos 
+
+Para saber mas sobre los tres diferentes metodos de ordenamiento que se encuentra entra a metos
 
 
 
