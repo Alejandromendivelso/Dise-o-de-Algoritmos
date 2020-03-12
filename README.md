@@ -14,8 +14,6 @@ En la ejecución de este ejercicio podremos aumentar o disminuir la cantidad de 
 
 ## Busqueda binaria 
 
-## Busqueda binaira recursiva 
-
 La búsqueda binaria es un eficiente algoritmo para poder buscar un elemento específico dentro de una lista ordenada, este algoritmo funciona al dividir la lista en dos sublistas donde esto lo hace en repetidas veces hasta que encuentra la ubicación posible donde se encuentre.
 
 ## Metodos de Ordenamientos 
